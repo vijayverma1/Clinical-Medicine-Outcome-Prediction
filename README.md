@@ -79,8 +79,9 @@ The goal is to identify patterns that may support further investigation, not to 
 
 ## Repository Contents
 
-- Jupyter Notebook — data preparation, exploratory analysis, and adverse-event model development.
-- `requirements.txt` — Python dependencies.
+- 'GSKdataclean-2.ipynb` — Data cleaning, data quality checks, and preparation of the clinical dataset for analysis- Jupyter Notebook
+- 'GSK_model.ipynb` — Exploratory analysis, feature preprocessing, and machine learning model development and evaluation for adverse event prediction.
+- `requirements.txt` — Python packages required to run the project.
 
 ## Dataset & Limitations
 
